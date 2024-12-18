@@ -19,12 +19,15 @@
 #### **Programming Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)&nbsp;
 
 #### **Data Technologies**
 ![Snowflake](https://img.shields.io/badge/snowflake-%23EDF3FA.svg?style=for-the-badge&logo=snowflake&logoColor=blue)&nbsp;
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 ![Informatica](https://img.shields.io/badge/informatica-%23F89D2A.svg?style=for-the-badge)&nbsp;
+![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)&nbsp;
 
 #### **Cloud & Tools**
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
