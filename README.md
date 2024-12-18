@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I'm a Software Engineer, working at Indra, Spain. I'm specialized in **data architecture**, **analytics**, **AI**, and **team management**.\
-🌏 &nbsp;.Graduated as a Industrial Technical Engineer, MSc Data Science & Business Analytics & Executive MBA\
+🌏 &nbsp;Graduated as a Industrial Technical Engineer, MSc Data Science & Business Analytics & Executive MBA\
 💡 &nbsp;I'm passionate about **learning**, **building software solutions**, and sharing my knowledge. I aim to develop and publish personal projects to showcase my technical background and inspire others in the tech community.\
 💬 &nbsp;Feel free to connect with me for insights into **Big Data**, **AI**, and **Data Engineering**, or just for an interesting conversation.\
 📄 &nbsp;Check out my website [julianvazquez.es](https://www.julianvazquez.es/).\
