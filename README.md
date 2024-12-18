@@ -36,27 +36,6 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/julianoceanhills">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianoceanhills&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/julianoceanhills">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoceanhills&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
----
-
-### 🌱 &nbsp;What I'm Learning
-
-🌟 **Machine Learning** for Big Data projects.\
-🌟 **Data Governance** to enhance enterprise data management.\
-🌟 **Cloud-Based Data Solutions** for scalable architecture.
-
----
-
 ### 🎖 &nbsp;Achievements
 
 🏆 Transitioned to tech from engineering and developed a unique combination of business acumen and technical expertise.\
