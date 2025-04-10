@@ -25,7 +25,7 @@ I lead end-to-end initiatives involving Cloud Solutions in Finance & Business-Cr
 - 🎓 Executive MBA  
 - 🎓 BEng in Industrial Technical Engineering  
 
-📄 [Portfolio & Blog – julianvazquez.es](https://www.julianvazquez.es)  
+📄 [Portfolio Web – julianvazquez.es](https://www.julianvazquez.es)  
 📩 [julianvazquez171@gmail.com](mailto:julianvazquez171@gmail.com)
 
 ---
@@ -70,7 +70,7 @@ I lead end-to-end initiatives involving Cloud Solutions in Finance & Business-Cr
 ### 🏆 Achievements
 
 - 📈 Delivered full-scale data initiatives across **finance, supply chain, and digital platforms** for top-tier clients.  
-- 🧠 Developed award-winning Master’s Thesis on **advanced analytics** and predictive modeling.  
+- 🧠 Developed Master’s Thesis on **advanced analytics** and predictive modeling.  
 - 🔁 Successfully transitioned from engineering into tech, merging **business acumen** with **deep technical expertise**.  
 - 🌍 Consulted in global environments, leading multi-disciplinary teams and mentoring young talent.
 
