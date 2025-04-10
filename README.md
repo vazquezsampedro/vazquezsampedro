@@ -21,10 +21,6 @@ I'm a **Senior Consultant at EY**, specialized in **Digital Finance**, **Data & 
 With a strong background in **Data Architecture**, **Advanced Analytics**, and **Team Leadership**, I support global organizations in reshaping their digital strategy.
 I lead end-to-end initiatives involving Cloud Solutions in Finance & Business-Critical areas, helping stake-holders make fast and best choices.
 
-- 🎓 MSc in Data Science & Business Analytics  
-- 🎓 Executive MBA  
-- 🎓 BEng in Industrial Technical Engineering  
-
 📄 [Portfolio Web – julianvazquez.es](https://www.julianvazquez.es)  
 📩 [julianvazquez171@gmail.com](mailto:julianvazquez171@gmail.com)
 
@@ -64,6 +60,12 @@ I lead end-to-end initiatives involving Cloud Solutions in Finance & Business-Cr
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+- 🎓 MSc in Data Science & Business Analytics  
+- 🎓 Executive MBA  
+- 🎓 BEng in Industrial Technical Engineering
 
 ---
 
