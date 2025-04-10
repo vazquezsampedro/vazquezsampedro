@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I'm a Senior Consultant at EY. I'm specialized in **Digital Finance**, **AI**, **Data Architecture**, **Analytics**, **Government** and **Team Management**.\
-🌏 &nbsp;Graduated as a Industrial Technical Engineer, MSc Data Science & Business Analytics, Executive MBA\
+🌏 &nbsp;Graduated as a Industrial Technical Engineer, MSc Data Science & Business Analytics, Executive MBA
 
 📄 &nbsp;Check out my website [julianvazquez.es](https://www.julianvazquez.es/).\
 📩 &nbsp;You can contact me at [julianvazquez171@gmail.com](mailto:julianvazquez171@gmail.com).
