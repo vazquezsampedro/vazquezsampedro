@@ -17,14 +17,17 @@
 
 ---
 
-### 🛠 &nbsp;Tech Stack
-#### **Programming Languages**
+
+
+
+#### **Data Technologies**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)&nbsp;
 
-#### **Data Technologies**
+
 ![Snowflake](https://img.shields.io/badge/snowflake-%23EDF3FA.svg?style=for-the-badge&logo=snowflake&logoColor=blue)&nbsp;
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 ![Informatica](https://img.shields.io/badge/informatica-%23F89D2A.svg?style=for-the-badge&logo=infura&logoColor=white)&nbsp;
@@ -33,7 +36,7 @@
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)&nbsp;
 
-#### **Cloud & Tools**
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
