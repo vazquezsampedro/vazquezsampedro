@@ -10,7 +10,8 @@
 📩 &nbsp;You can contact me at [julianvazquez171@gmail.com](mailto:julianvazquez171@gmail.com).
 
 
-<img alt="Coding at Night" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
+<img alt="Professional Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="300" />
+
 
 ---
 
