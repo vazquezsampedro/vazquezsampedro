@@ -16,7 +16,7 @@
 
 ### 👨🏻‍💼 About Me
 
-I'm a **Senior Consultant at EY**, specializing in **Digital Finance**, **Data & AI Solutions**, and **Enterprise Transformation**.
+I'm a **Senior Consultant at EY**, specialized in **Digital Finance**, **Data & AI Solutions**, and **Enterprise Transformation**.
 
 With a strong background in **Data Architecture**, **Advanced Analytics**, and **Team Leadership**, I support global organizations in reshaping their digital strategy.
 I lead end-to-end initiatives involving Cloud Solutions in Finance & Business-Critical areas, helping stake-holders make fast and best choices.
