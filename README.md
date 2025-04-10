@@ -1,4 +1,4 @@
-<h2 align="center">Julián Vázquez — Senior Consultant | Data & AI Expert</h2>
+<h2 align="center">Julián Vázquez — Senior Consultant at EY - Digital Finance, Big Data & AI| t</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julianvazquez-sampedro/">
