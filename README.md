@@ -12,7 +12,7 @@
 
 <img alt="Corporate Coding" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="300" />
 
-
+<img alt="Coding at Night" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 
 
 ---
