@@ -1,5 +1,5 @@
 
-<img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"/><h2 align="left">Hey there! I'm Julián</h2>
+<img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"/><h2 align="left">Welcome. I'm Julián</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -10,7 +10,8 @@
 📩 &nbsp;You can contact me at [julianvazquez171@gmail.com](mailto:julianvazquez171@gmail.com).
 
 
-<img alt="Professional Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="300" />
+<img alt="Ingeniero de Software" src="URL_DEL_GIF" align="right" width="300" />
+
 
 
 ---
