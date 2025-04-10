@@ -18,7 +18,8 @@
 
 I'm a **Senior Consultant at EY**, specializing in **Digital Finance**, **Data & AI Solutions**, and **Enterprise Transformation**.
 
-With a strong background in **Data Architecture**, **Advanced Analytics**, and **Team Leadership**, I support global organizations in reshaping their digital strategy and extracting value from their data. I lead end-to-end initiatives involving cloud platforms, ERP integration, and business-critical dashboards, helping decision-makers make faster, smarter choices.
+With a strong background in **Data Architecture**, **Advanced Analytics**, and **Team Leadership**, I support global organizations in reshaping their digital strategy.
+I lead end-to-end initiatives involving Cloud Solutions in Finance & Business-Critical areas, helping stake-holders make fast and best choices.
 
 - 🎓 MSc in Data Science & Business Analytics  
 - 🎓 Executive MBA  
