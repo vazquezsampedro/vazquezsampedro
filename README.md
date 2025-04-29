@@ -21,7 +21,7 @@ I'm a **Senior Consultant at EY**, specialized in **Digital Finance**, **Data & 
 With a strong background in **Data Architecture**, **Advanced Analytics**, and **Team Leadership**, I support global organizations in reshaping their digital strategy.
 I lead end-to-end initiatives involving Cloud Solutions in Finance & Business-Critical areas, helping stake-holders make fast and best choices.
 
-📄 [Portfolio Web – julianvazquez.es](https://www.julianvazquez.es)  
+📄 [LinkedIn – julianvazquez.es](https://www.linkedin.com/julianvazquez-sampedro)  
 📩 [julianvazquez171@gmail.com](mailto:julianvazquez171@gmail.com)
 
 ---
