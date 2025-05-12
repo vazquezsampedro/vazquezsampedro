@@ -1,4 +1,4 @@
-<h2 align="center">Julián Vázquez, Senior at EY _ Software Engineering</h2>
+<h2 align="center">Julián Vázquez, Senior at EY - Software Engineering</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julianvazquez-sampedro/">
