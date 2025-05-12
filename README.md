@@ -7,9 +7,6 @@
   <a href="mailto:julianvazquez171@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://www.julianvazquez.es/">
-    <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white" />
-  </a>
 </p>
 
 ---
