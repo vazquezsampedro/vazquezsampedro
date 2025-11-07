@@ -1,17 +1,13 @@
-<h1 align="center">🌍 Julián Vázquez</h1>
+<h1 align="center">Julián Vázquez Sampedro</h1>
 <h3 align="center">Senior Software Engineer & Architect | Cloud, Data & AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julianvazquez-sampedro/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:julianvazquez171@gmail.com">
+  <a href="mailto:julian.vazquez.sampedro@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://www.julianvazquez.es/">
-    <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white" />
-  </a>
-</p>
 
 ---
 
